@@ -1,4 +1,5 @@
-<h1 align="center">Hey, I'm Mahalakshmi Veeraraj</h1>
+<h1 align="center">Hey, I'm Mahalakshmi Veeraraj ![image](https://github.com/mahalakshmi-veeraraj/mahalakshmi-veeraraj/assets/143511203/f3e102b2-ce20-4488-9668-a3a1c74df093)
+</h1>
 <a href="https://tenor.com/view/hello-gif-27179177"/>
 <h3 align="center">I develop software.</h3>
 
